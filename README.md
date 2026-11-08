@@ -2,8 +2,7 @@
 
 Адаптивний односторінковий лендінг дизайн-агенції **Keepsake** за макетом Figma «Keepsake — Responsive» (Desktop 1280, Tablet 768, Mobile 375, Mobile menu open, UI states).
 
-**Демо:** https://github.com/chopykliliia-glitch/landing-keepsake.git
-
+**Демо:** https://chopykliliia-glitch.github.io/landing-keepsake/
 ## Технології
 
 - HTML5 (семантична розмітка: `header`, `nav`, `main`, `section`, `article`, `figure`, `footer`, `form`), один `h1`, послідовна ієрархія `h2` → `h3`.
